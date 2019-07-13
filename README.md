@@ -1,2 +1,2 @@
 # ML-project
-This contains Machine Learning Projects.
+This project predicts the Box office revenue of the movie using Linear Regression.
